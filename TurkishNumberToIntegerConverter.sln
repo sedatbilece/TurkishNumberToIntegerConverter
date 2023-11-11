@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurkishNumberToIntegerConverter", "TurkishNumberToIntegerConverter\TurkishNumberToIntegerConverter.csproj", "{95A6D32C-D06C-451E-8593-5DD3338F8070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95A6D32C-D06C-451E-8593-5DD3338F8070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A6D32C-D06C-451E-8593-5DD3338F8070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A6D32C-D06C-451E-8593-5DD3338F8070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A6D32C-D06C-451E-8593-5DD3338F8070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09831B48-CE9B-4C09-84CB-96CE09AE852E}
+	EndGlobalSection
+EndGlobal
